@@ -1,0 +1,1 @@
+Project that involved the use of NumPy and pandas along with sklearn to perform data cleaning and filtering and creating AI datasets through the use of various LLM Models
