@@ -1,0 +1,1 @@
+Data Analysis Project using NumPy pandas and matplotlib to perform a series of analytical tasks on a given dataset.
